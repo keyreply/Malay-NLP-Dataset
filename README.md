@@ -31,7 +31,7 @@ hltdi-morphology | Mirror Repository for ParaMorfo, HornMorpho, AntiMorfo, and M
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
 MALINDO_Morph | Morphological dictionary for Malay / Indonesian | | English-Malay, English-Indonesian  | CC BY-NC-SA 4.0 TH | [english](https://github.com/matbahasa/MALINDO_Morph)
-TALPCo | The TUFS Asian Language Parallel Corpus | | Japanese -> Indonesian | Creative Commons Attribution 4.0 International (CC BY 4.0) license | [matbahasa](https://github.com/matbahasa/TALPCo)
+TALPCo | The TUFS Asian Language Parallel Corpus | | Japanese -> Malay | Creative Commons Attribution 4.0 International (CC BY 4.0) license | [matbahasa](https://github.com/matbahasa/TALPCo)
 Open Parallel Corpus | OPUS is a growing collection of translated texts from the web.  | | Malay <-> Many languages | Modified BSD License| [OPUS](http://opus.nlpl.eu/)
 
 
