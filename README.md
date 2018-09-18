@@ -39,8 +39,7 @@ Open Parallel Corpus | OPUS is a growing collection of translated texts from the
 Pre-trained Model | Description | Size | Dimensions | License | Link
 --- | --- | --- | --- | --- | ---
 fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.ms.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.ms.vec)
-wordvectors | Pre-trained word vectors of 30+ languages
- | 173MB | 100 | MIT License| [Kyubyong](https://github.com/Kyubyong/wordvectors/blob/master/LICENSE)
+wordvectors | Pre-trained word vectors of 30+ languages | 173MB | 100 | MIT License| [Kyubyong](https://github.com/Kyubyong/wordvectors/blob/master/LICENSE)
 
 
 ## Not found? Try this.
